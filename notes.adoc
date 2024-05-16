@@ -1,5 +1,5 @@
 = Notes
-include::section-info.adoc[]
+:url-course-submittal:https://docs.google.com/forms/d/e/1FAIpQLSc6DQuFUS-MkJW1AS2IHQSH5e6ugdhs126QDKXuwY-19D7VRg/viewform
 
 
 == external course completion upload
@@ -11,7 +11,7 @@ include::section-info.adoc[]
 2+|*is the course listed in the catalog?*
 
 |no
-|. Use the https://docs.google.com/forms/d/e/1FAIpQLSc6DQuFUS-MkJW1AS2IHQSH5e6ugdhs126QDKXuwY-19D7VRg/viewform[Course Submittal Form] attached and email it to us at focus@parks.ca.gov 
+|. Use the {url-course-submittal}[Course Submittal Form] attached and email it to us at focus@parks.ca.gov 
 . Then submit the Section information as below 
 
 If it is 
