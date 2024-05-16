@@ -1,0 +1,14 @@
+= Section Information 
+
+Please provide the following:
+
+* Course name
+* Facility name
+* Facility address
+* Start/end date
+* Start/end time
+* Capacity limit
+* Provider name
+* Provider address
+* Cost
+* Hours
