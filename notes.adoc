@@ -1,4 +1,6 @@
 = Notes
+include::section-info.adoc
+
 
 == external course completion upload
 
@@ -45,6 +47,13 @@ Please send us the certificates and the following:
 --
 
 |===
+
+
+
+
+
+
+
 
 
 In the meantime:  
