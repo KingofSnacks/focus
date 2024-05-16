@@ -3,17 +3,14 @@
 == external course completion upload
 
 === Option A: Prior to Course Start Date (ideal): 
+[%autowidth]
+|===
+|||
 
- 
- 
-
-Course Information: Please view the Training Catalog on FOCUS to see if the course is listed:  
-
-If it is not: 
-
-You may use the Course Submittal Form attached and email it to us at focus@parks.ca.gov 
-
-And, then submit the Section information as below 
+|*is the course listed in the catalog?*
+|no
+|. Use the Course Submittal Form attached and email it to us at focus@parks.ca.gov 
+. Then submit the Section information as below 
 
 If it is 
 
@@ -25,7 +22,9 @@ No DPR 392 needed, as it is electronic within FOCUS
 
 You must register for the course prior to attending on FOCUS (and with the external provider if required), then Submit a Proof of Completion to receive credit after taking the course for it to be added to your training record/history. 
 
-Option B: If the training has already occurred: 
+
+
+=== Option B: If the training has already occurred: 
 
  
  
@@ -33,20 +32,35 @@ Option B: If the training has already occurred:
 We’re updating the way we handle outside courses since most of them need to be tracked for requirements.  (We have temporarily turned off the Request for Credit option.)  
 
   
+--
+Please send us the certificates and the following:  
+
+* the course name
+* the facility name/city
+* start/end dates
+* start/end time 
+* provider information
+* cost
+* total hours
+--
+
+|===
+
 
 In the meantime:  
 
   
-
+--
 Please send us the certificates and the following:  
 
-the course name, 
-
-the facility name/city, 
-
-dates, start/end time, 
-
-provider information, 
+* the course name
+* the facility name/city
+* start/end dates
+* start/end time 
+* provider information
+* cost
+* total hours
+--
 
 cost, 
 
