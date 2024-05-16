@@ -1,5 +1,5 @@
 = Notes
-include::section-info.adoc
+include::section-info.adoc[]
 
 
 == external course completion upload
