@@ -11,8 +11,9 @@
 2+|*is the course listed in the catalog?*
 
 |no
-|. Use the {url-submittal}[Course Submittal Form] attached and email it to us at focus@parks.ca.gov 
-. Then submit the Section information as below 
+|Use the {url-submittal}[Course Submittal Form]
+
+Then submit include::section-info.adoc[] to us at focus@parks.ca.gov 
 
 If it is 
 
