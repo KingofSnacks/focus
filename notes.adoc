@@ -7,11 +7,11 @@ include::section-info.adoc[]
 === Option A: Prior to Course Start Date (ideal): 
 [%autowidth]
 |===
-|||
 
-|*is the course listed in the catalog?*
+2+|*is the course listed in the catalog?*
+
 |no
-|. Use the Course Submittal Form attached and email it to us at focus@parks.ca.gov 
+|. Use the https://docs.google.com/forms/d/e/1FAIpQLSc6DQuFUS-MkJW1AS2IHQSH5e6ugdhs126QDKXuwY-19D7VRg/viewform[Course Submittal Form] attached and email it to us at focus@parks.ca.gov 
 . Then submit the Section information as below 
 
 If it is 
