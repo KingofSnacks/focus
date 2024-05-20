@@ -50,7 +50,7 @@ them as a Managed Learner (see help file for process) in their Supervisor role
 Management Dashboard (not the Manager Dashboard if they also have the Training
 Group Manager role).
 
-The **Training Coordinator** role (from ETMS) is **_not_** currently part of the system/approval chain.
+The **Training Coordinator** role (from ETMS) is **NOT** currently part of the system/approval chain.
 The Training Specialist role is one that coordinates Internal training, usually through the Training
 Section.
 
