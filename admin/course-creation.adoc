@@ -6,10 +6,8 @@
 
 [%autowidth]
 |===
-||
 
-|Name:
-|CalHR: ...
+|Name:|CalHR: {FITB}
 
 |Self-Registration:
 |Yes
@@ -33,4 +31,72 @@ Registration through FOCUS does not guarantee enrollment.
 After taking the course, use the Submit Proof of Completion function to receive credit and for it to be added to your training record/history.
 Please note: Training is not funded by the Training Section; funding (if applicable) should be discussed with your Supervisor.
 
-[CalHR Description]
+{Insert CalHR Description}
+
+=== Enterprise HR Information
+
+[%autowidth]
+|===
+
+|Competency|--
+
+|Delivery Method
+|--
+
+|Is State Mandated
+|--
+
+|Is Department Mandated
+|--
+
+|Course Contact First Name
+|CalHR
+
+|Course Contact Last Name
+|CalLearns
+
+|Course Contact Phone
+|999-999-9999
+
+|===
+
+== Create Section
+
+=== Section Information
+
+[%autowidth]
+|===
+
+|Name:|...PAST
+
+|Instructor:
+|Outside
+
+|Term
+|PAST
+
+|Number of Hours
+|--
+
+|Status
+|Does not save change during creation, must Archive after
+
+|Cost
+|$
+
+|===
+
+=== Enterprise HR Information
+
+[%autowidth]
+|===
+
+|Is on the Job Training
+|--
+
+|Training Type
+|
+
+|Provider Name
+|CalHR
+Is
