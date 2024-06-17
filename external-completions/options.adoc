@@ -18,7 +18,8 @@ We’re updating the way we handle outside courses since most of them need to be
 
 In the meantime:  
 
-Please send us the certificates and the following:  
+Please send us the certificates and the following:
+
 * Course Name
 * Facility Name/Location
 * Start/End Dates/Times
@@ -43,30 +44,26 @@ Asdfsadfasdfdf
 
 Please complete the Course Submittal Form at https://docs.google.com/forms/d/e/1FAIpQLSc6DQuFUS-MkJW1AS2IHQSH5e6ugdhs126QDKXuwY-19D7VRg/viewform to add the course to the FOCUS catalog. 
 
-  
-
 For your specific instance of training please provide 
 
-Course name 
+* Course name 
 
-Facility name 
+* Facility name 
 
-Facility address 
+* Facility address 
 
-Start/End date 
+* Start/End date 
 
-Start/End time 
+* Start/End time 
 
-Capacity limit 
+* Capacity limit 
 
-Provider name 
+* Provider name 
 
-Provider address 
+* Provider address 
 
-Cost 
+* Cost 
 
-Hours  
-
-  
+* Hours
 
 We will add it as a Section that you can submit enrollment for.  
